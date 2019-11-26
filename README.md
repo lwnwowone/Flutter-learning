@@ -30,3 +30,16 @@
 ## 7 - Save&Load data to/from disk
 
 ![](./sample_images/learning7.png)
+
+## 8 - Build HTTP Server
+
+![](./sample_images/learning8_1.png)
+![](./sample_images/learning8_2.png)
+
+## 9 - Unit test with Mokito
+
+Lokking code for details
+
+## 10 - UI test with Flutter Driver
+
+Looking code for details
